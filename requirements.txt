@@ -1,0 +1,11 @@
+Flask
+Flask-CORS
+numpy
+opencv-python-headless  # or replace with opencv-python if not running in a headless server environment
+pandas
+scikit-learn
+scipy
+waitress
+streamlit
+requests
+Pillow
