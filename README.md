@@ -4,14 +4,7 @@ Welcome to the Demographic-Enhanced Recommendation System! This system offers pe
 
 <img width="873" alt="image" src="https://github.com/user-attachments/assets/61b61920-0d67-4081-873f-0287efdc0962" />
 
-<img width="547" alt="image" src="https://github.com/user-attachments/assets/cee76180-c03a-4996-aa64-b08e1022df2f" />
-
-<img width="530" alt="image" src="https://github.com/user-attachments/assets/481b3141-4d8b-433e-a48c-64dc4be50861" />
-
-<img width="571" alt="image" src="https://github.com/user-attachments/assets/2702c157-d49a-4c28-ae12-e57977f5d068" />
-
-<img width="772" alt="image" src="https://github.com/user-attachments/assets/5f3ac0df-4896-4f07-89a1-a8a67fc5721e" />
-
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/a6f9f189-2813-4da5-984e-b95c4fa667c9" /> <img width="424" alt="image" src="https://github.com/user-attachments/assets/ae5bf1bb-a02f-44ee-a3e8-6e50975d9f90" /> <img width="462" alt="image" src="https://github.com/user-attachments/assets/789957ef-e9f9-4dac-b022-26138dc7c0a6" /> <img width="454" alt="image" src="https://github.com/user-attachments/assets/a7d97798-d2be-4de0-9ddb-37f541562822" />
 
 ## Setup and Running Instructions
 
