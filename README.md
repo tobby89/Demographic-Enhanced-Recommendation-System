@@ -2,6 +2,17 @@
 
 Welcome to the Demographic-Enhanced Recommendation System! This system offers personalized product recommendations by leveraging user demographics, specifically age and gender, detected from images. It consists of a Flask API for backend operations, including age and gender detection, as well as product recommendation. Additionally, it features a user-friendly Streamlit application for the frontend interface.
 
+<img width="873" alt="image" src="https://github.com/user-attachments/assets/61b61920-0d67-4081-873f-0287efdc0962" />
+
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/cee76180-c03a-4996-aa64-b08e1022df2f" />
+
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/481b3141-4d8b-433e-a48c-64dc4be50861" />
+
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/2702c157-d49a-4c28-ae12-e57977f5d068" />
+
+<img width="772" alt="image" src="https://github.com/user-attachments/assets/5f3ac0df-4896-4f07-89a1-a8a67fc5721e" />
+
+
 ## Setup and Running Instructions
 
 To get started with the system, follow these simple steps:
